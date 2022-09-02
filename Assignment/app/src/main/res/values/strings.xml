@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="disp_text">Disp Text</string>
+    <string name="disp_notification">Disp Notification</string>
+    <string name="pop_up">Pop Up</string>
+    <string name="change_text">Change Text</string>
+    <string name="change_text_by_button">COMPLETED</string>
+    <string name="dismiss">Dismiss</string>
+
+</resources>
